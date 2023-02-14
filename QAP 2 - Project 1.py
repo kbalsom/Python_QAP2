@@ -163,26 +163,3 @@ print("HST Reg No: 549-33-5849-4720-9885")
 print()
 CanFeeDsp = "${:,.2f}".format(CanFee)
 print("Cancellation Fee:        {:>9s}".format(CanFeeDsp))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
