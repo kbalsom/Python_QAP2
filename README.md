@@ -1,4 +1,5 @@
 Written By: Kara Balsom
+
 Date Written: February 1, 2022
 
 Project Written for QAP 2 of Intro to Python (Semester 1).
